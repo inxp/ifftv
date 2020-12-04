@@ -1,0 +1,96 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/3e857c88.png" group-title="Lifestyle",Fashion TV 1
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvZmFzaGlvbnR2L2Zhc2hpb250djBfMTY5XzEwODBwLmpzb24vaW5kZXgtdjEtYTEubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=/
+
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/3e857c88.png" group-title="Lifestyle",Fashion TV 3
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9mYXNoMTA0My5jbG91ZHljZG4uc2VydmljZXMvc2xpdmUvX2RlZmluc3RfL2Z0dl9mdHZfcGFyaXNfcGdfNGRnXzI3MDI3X3BhcmlzX3BnMThfMTg4X2hscy5zbWlsL2NodW5rbGlzdF9iNDcwMDAwMF90NjRNVEE0TUhBPS5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==/
+
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/3e857c88.png" group-title="Lifestyle",Fashion TV MS
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2Zhc2gxMDQzLmNsb3VkeWNkbi5zZXJ2aWNlcy9zbGl2ZS9fZGVmaW5zdF8vZnR2X21pZG5pdGVfc2VjcmV0c19hZGFwdGl2ZS5zbWlsL2NodW5rbGlzdF9iNDcwMDAwMF90NjRNVEE0TUhBPS5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==/
+
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="Lifestyle",Jasmin TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovLzEwOS43MS4xNjIuMTEyOjE5MzUvbGl2ZS9oZC5qYXNtaW5jaGFubmVsLnN0cmVhbS9wbGF5bGlzdC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz0xMCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=/
+
+#EXTINF:-1 tvg-logo="https://www.prodesigns.com/backend/img/sliders/feminine-logo-design/1511863083-fashion%20trends.png" group-title="Lifestyle",Models
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9ib3p6dHYuY29tLzM2YmF5Mi9naW4vZ2luaWtvX21vZGVsaW5jXzIwMDBrYl8zNmJheTIvdHJhY2tzLXYxYTEvbW9uby5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWw5VmlFSWlwOXE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India Backup
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2aW5kaWFlbGVtYXJjaGFuYS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDM2NzkvbmR0dmluZGlhL21hc3RlcnBfNDgwcEA1Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/120px-Aaj_tak_logo.png" group-title="Hindi News",Aaj Tak
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVNtUXFBbktHNnpzIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/120px-Aaj_tak_logo.png" group-title="Hindi News",Aaj Tak Backup
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xtaWwubGl2ZS1zLmNkbi5iaXRncmF2aXR5LmNvbS9jZG4tbGl2ZS9fZGVmaW5zdF8vbG1pbC9saXZlL2FhanRha19hcHAuc21pbC9wbGF5bGlzdC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/5119ae4b.png" group-title="Hindi News", ABP News
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWpsWGlBUDhLMjE4IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/fe0fd371.jpg" group-title="Hindi News", Rajya Sabha TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWoxdUZjc3oyTmdVIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="Hindi News", Lok Sabha TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTV1aWg1VVdCZjVBIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/4de91761.jpg" group-title="English News", India Today
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTBUSnpLNW9KanE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUFGTlVlVWVkOFJvIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7 Backup
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC9uZHR2MjR4Ny9tYXN0ZXJwXzQ4MHBANS5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/ae89b341.jpg" group-title="English News",Republic TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWYwLVktZU1oUzFBIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/cef008f3.png" group-title="English News",Times Now
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly90aW1lc25vdy1saC5ha2FtYWloZC5uZXQvaS9UTkhEXzFAMTI5Mjg4L2luZGV4XzcyMF9hdi1wLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/7a6abcc2.png" group-title="English News",Al Jazeera
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLWhscy13ZWItYWplLmdldGFqLm5ldC9BSkUvaW5kZXgubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="Hindi Music",Dilse Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9kaWwtc2UvcGxheWxpc3RfMTA4MHAvaW5kZXgubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/b2d/191/41239439/41239439_800x800.jpg" group-title="Hindi Music",Hits Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9rYWRhay1oaXRzL3BsYXlsaXN0XzEwODBwL2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/98c/cc2/41239603/41239603_800x800.jpg" group-title="Hindi Music",POP Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9wb3AtcGF0YWthL3BsYXlsaXN0XzEwODBwL2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw=
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/13c/a48/41239512/41239512_800x800.jpg" group-title="Hindi Music",Dhamal
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9kaGFtYWFsL3BsYXlsaXN0XzEwODBwL2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/e33/534/41239624/41239624_800x800.jpg" group-title="Hindi Music",Hadippa
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9ib2wtaGFkaXBwYS9wbGF5bGlzdF8xMDgwcC9pbmRleC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" group-title="Hindi Music",Zoom
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL3pvb213ZWJsaXZlLWxoLmFrYW1haWhkLm5ldC9pL1pvb213ZWJfMUAzNDgwNzEvbWFzdGVyLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://www.streamys.org/wp-content/uploads/2012/08/VH1_Black.png" group-title="English Music",VH1
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2NvbnRlbnQudXBseW5rLmNvbS9jaGFubmVsLzM2OTUzZjViNjU0NjQ2NDU5MGQyZmNkOTU0YmM4OWNmLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://img.webme.com/pic/e/eric-cast/musictop.png" group-title="English Music",Music Top
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmUtZWRnZTAxLnRlbGVjZW50cm8ubmV0LmFyL2xpdmUvbXNjdHBoZC03MjAvcGxheWxpc3QubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="http://likeasupernova.com/wp-content/uploads/2012/11/CMC-Sponsor3.jpg" group-title="English Music",California Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2NtY3R2Lmlvcy5pbnRlcm5hcGNkbi5uZXQvY21jdHZfdml0YWxzdHJlYW1fY29tL2xpdmVfMS9DTUMtVFYvLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/russian-music-box-hd.png" group-title="English Music",Russia MusicBox
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL3NlcnYyNS52aW50ZXJhLnR2OjgwODEvdGVzdC9ydXNtdXNib3gvcGxheWxpc3QubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="https://lh3.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s=s360" group-title="English Music",Kronehit TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2JpdGNkbi1rcm9uZWhpdC5iaXRtb3Zpbi5jb20vdjIvaGxzL2NodW5rbGlzdF9iMzEyODAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://tvnews.by/uploads/posts/2016-10/1476198065_1HD.png" group-title="English Music",1HD Music TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovLzFoZHJ1LWhscy1vdGNuZXQuY2RudmlkZW8ucnUvb25laGRtdXNpYy90cmFja3MtdjFhMS9pbmRleC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+
+#EXTINF:-1   tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" group-title="English Music",THT Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly92aWRlby00LTMwNS5ydXR1YmUucnUvc3RyZWFtLzE5NC4xOTAuNzYuMTAvZjViYTIzYTAxNDlmNDA5YzE4MTY4MjMxODQ0ZTBhM2IvdHJhY2tzLXYxYTEvbW9uby5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
