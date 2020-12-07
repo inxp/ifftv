@@ -19,9 +19,6 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovLzEwOS43MS4xNjIuMTEyOjE5Mz
 #EXTINF:-1 tvg-logo="https://www.prodesigns.com/backend/img/sliders/feminine-logo-design/1511863083-fashion%20trends.png" group-title="Lifestyle",Models
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9ib3p6dHYuY29tLzM2YmF5Mi9naW4vZ2luaWtvX21vZGVsaW5jXzIwMDBrYl8zNmJheTIvdHJhY2tzLXYxYTEvbW9uby5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
-#EXTINF:-1   tvg-logo="http://ranklogos.com/wp-content/uploads/2014/12/Playboy-TV-409x500.png" group-title="Lifestyle",Playboy TV
-http://e02.plius.tv:64144/n137/index.m3u8
-
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWw5VmlFSWlwOXE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
 
