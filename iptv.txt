@@ -41,7 +41,7 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YX
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTV1aWg1VVdCZjVBIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
 
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/4de91761.jpg" group-title="English News", India Today
-http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTBUSnpLNW9KanE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9mZWVkcy5pbnRvZGF5LmluL2hsdGFwcHMvYXBpL21hc3Rlci5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUFGTlVlVWVkOFJvIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
