@@ -61,9 +61,6 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLWhscy13ZWItYWplLm
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/320px-BBC_News.svg.png" group-title="English News",BBC World News
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbmV3XzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Lifestyle",TLC
-http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvdHJhdmVsbGl2aW5nX2hscy5zbWlsL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
-
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Lifestyle",BBC Lifestyle
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbGlmZXN0eWxlXzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
