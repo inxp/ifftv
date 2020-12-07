@@ -64,7 +64,7 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZX
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Lifestyle",BBC Lifestyle
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbGlmZXN0eWxlXzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
-#EXTINF:-1   tvg-logo="http://ranklogos.com/wp-content/uploads/2014/12/Playboy-TV-409x500.png" group-title="Lifestyle",PB Tv
+#EXTINF:-1   tvg-logo="http://ranklogos.com/wp-content/uploads/2014/12/Playboy-TV-409x500.png" group-title="Lifestyle",Playboy Tv
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2UwMi5wbGl1cy50djo2NDE0NC9uMTM3L2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
 
 #EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="Hindi Music",Dilse Music
