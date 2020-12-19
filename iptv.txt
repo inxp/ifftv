@@ -93,3 +93,6 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovLzFoZHJ1LWhscy1vdGNuZXQuY2
 
 #EXTINF:-1   tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" group-title="English Music",THT Music
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly92aWRlby00LTMwNS5ydXR1YmUucnUvc3RyZWFtLzE5NC4xOTAuNzYuMTAvZjViYTIzYTAxNDlmNDA5YzE4MTY4MjMxODQ0ZTBhM2IvdHJhY2tzLXYxYTEvbW9uby5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://media.nbcnewyork.com/2019/09/NBCSN.jpg" group-title="Sports",NBCSN
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwOi8vdXMxLWV4dGVybmFsLXNvdXJjZXMuaXB0dnNlcnZlci50djo4MC9saXZlL2tra3JrRHAyYTlLTndBd0d6cGIvUVQ5NHVLNU5OUXc0cjRRcy82MDYubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
