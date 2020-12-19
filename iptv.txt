@@ -37,6 +37,9 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YX
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7 Backup
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC9uZHR2MjR4Ny9tYXN0ZXJwXzQ4MHBANS5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
+#EXTINF:-1   tvg-logo="https://www.rvcj.com/wp-content/uploads/2017/03/times-now-logo.jpg" group-title="English News",Times Now
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwOi8vdGltZXNub3ctbGguYWthbWFpaGQubmV0L2kvVE5IRF8xQDEyOTI4OC9tYXN0ZXIubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/ae89b341.jpg" group-title="English News",Republic TV
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWYwLVktZU1oUzFBIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
 
