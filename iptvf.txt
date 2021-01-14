@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
+
+
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+
+
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
+
+
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_Cine_Bolly.jpg" group-title="Hindi",Colors Cineplex
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",& Pictures HD
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+
+
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWw5VmlFSWlwOXE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
 
@@ -39,6 +62,11 @@ http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL2xpdmVjZG4uZnB0cGxheS5uZX
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Lifestyle",BBC Lifestyle
 http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbGlmZXN0eWxlXzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Documentery",Animal Planet
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+
+#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/191-1914353_discovery-channel-hd-2007-discovery-channel-hd-logo.png" group-title="Documentery",Discovery Channel
+http://84.22.33.210:8000/DiscoveryCH/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="Hindi Music",Dilse Music
