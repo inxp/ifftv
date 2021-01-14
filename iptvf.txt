@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWw5VmlFSWlwOXE0IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India Backup
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2aW5kaWFlbGVtYXJjaGFuYS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDM2NzkvbmR0dmluZGlhL21hc3RlcnBfNDgwcEA1Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aaj_tak_logo.png/120px-Aaj_tak_logo.png" group-title="Hindi News",Aaj Tak
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xtaWwubGl2ZS1zLmNkbi5iaXRncmF2aXR5LmNvbS9jZG4tbGl2ZS9fZGVmaW5zdF8vbG1pbC9saXZlL2FhanRha19hcHAuc21pbC9wbGF5bGlzdC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/5119ae4b.png" group-title="Hindi News", ABP News
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWpsWGlBUDhLMjE4IGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/4de91761.jpg" group-title="English News", India Today
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9mZWVkcy5pbnRvZGF5LmluL2hsdGFwcHMvYXBpL21hc3Rlci5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUFGTlVlVWVkOFJvIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/c286393e.png" group-title="English News", NDTV 24x7 Backup
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC9uZHR2MjR4Ny9tYXN0ZXJwXzQ4MHBANS5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://www.rvcj.com/wp-content/uploads/2017/03/times-now-logo.jpg" group-title="English News",Times Now
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwOi8vdGltZXNub3ctbGguYWthbWFpaGQubmV0L2kvVE5IRF8xQDEyOTI4OC9tYXN0ZXIubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/ae89b341.jpg" group-title="English News",Republic TV
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWYwLVktZU1oUzFBIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://duckduckgo.com/i/7a6abcc2.png" group-title="English News",Al Jazeera
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLWhscy13ZWItYWplLmdldGFqLm5ldC9BSkUvaW5kZXgubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/320px-BBC_News.svg.png" group-title="English News",BBC World News
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbmV3XzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/national_geographic_channel2001.png" group-title="Lifestyle",National Geographic
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL2xpdmVjZG4uZnB0cGxheS5uZXQvZm94bGl2ZS9uYXRnZW9oZF9obHMuc21pbC9jaHVua2xpc3RfYjI1MDAwMDAubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="Lifestyle",BBC Lifestyle
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2xpdmVjZG4uZnB0cGxheS5uZXQvcW5ldGxpdmUvYmJjbGlmZXN0eWxlXzIwMDAuc3RyZWFtL2NodW5rbGlzdF9iMjUwMDAwMC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg" group-title="Hindi Music",Dilse Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9kaWwtc2UvcGxheWxpc3RfMTA4MHAvaW5kZXgubTN1OCIgYmVzdCAtLWhscy1zZWdtZW50LXRocmVhZHM9NCAtLXBsYXllci1jb250aW51b3VzLWh0dHA=
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/b2d/191/41239439/41239439_800x800.jpg" group-title="Hindi Music",Hits Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9rYWRhay1oaXRzL3BsYXlsaXN0XzEwODBwL2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://images.hungama.com/c/1/98c/cc2/41239603/41239603_800x800.jpg" group-title="Hindi Music",POP Music
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9saXZlLmh1bmdhbWEuY29tL2xpbmVhci9wb3AtcGF0YWthL3BsYXlsaXN0XzEwODBwL2luZGV4Lm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw=
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" group-title="Hindi Music",Zoom
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL3pvb213ZWJsaXZlLWxoLmFrYW1haWhkLm5ldC9pL1pvb213ZWJfMUAzNDgwNzEvbWFzdGVyLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://www.streamys.org/wp-content/uploads/2012/08/VH1_Black.png" group-title="English Music",VH1
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2NvbnRlbnQudXBseW5rLmNvbS9jaGFubmVsLzM2OTUzZjViNjU0NjQ2NDU5MGQyZmNkOTU0YmM4OWNmLm0zdTgiIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
+
+#EXTINF:-1   tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png" group-title="English Music",Channel V
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cDovL2h0di1kcm0tbGl2ZS1jZG4uZnB0cGxheS5uZXQvQ0ROLUZQVDAyL0NIQU5ORUxWLUhELTEwODBwL2NodW5rcy5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+
