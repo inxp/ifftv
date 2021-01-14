@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwOi8vaXB0di5raXR2LmxpdmU6MTkzNS9saXZlL0NUR0RETi9DVEdERE4vMjYubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
 
 
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV
