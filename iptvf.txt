@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony TV
-http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwOi8vaXB0di5raXR2LmxpdmU6MTkzNS9saXZlL0NUR0RETi9DVEdERE4vMjYubTN1OCBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
-
-
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
-
-
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
-
-
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
-http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_Cine_Bolly.jpg" group-title="Hindi",Colors Cineplex
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6592/index.m3u
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",& Pictures HD
-http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
-
 
 
 #EXTINF:-1   tvg-logo="https://duckduckgo.com/i/0120bbc8.png" group-title="Hindi News",NDTV India
