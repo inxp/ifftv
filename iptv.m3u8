@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="India",NDTV India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-#EXTINF:-1 tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="India",ABP News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="News",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/aaj_tak.png" status="online",Aaj Tak HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/aaj_tak.png" group-title="News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24
@@ -38,49 +38,50 @@ https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 https://hls.media.nic.in/live/rstv/index.m3u8
 
 
-#EXTINF:1 ,Discovery Hindi
+#EXTINF:1 group-title="Sony",Discovery Hindi
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
-#EXTINF:1 ,Animal Planet
+#EXTINF:1 group-title="Sony",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-
-#EXTINF:1 ,Set HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:1 ,Sab HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-#EXTINF:1 ,Sony. BBC Earth HD
+#EXTINF:1 group-title="Sony",Sony. BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:1 ,Sony Max HD
+#EXTINF:1 group-title="Sony",Set HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:1 group-title="Sony",Sab HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+
+#EXTINF:1 group-title="Sony",Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
 
-#EXTINF:1 ,Sony Max
+#EXTINF:1 group-title="Sony",Sony Max
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony Liv",SONY HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Sony Liv",SONY SAB HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Sony",SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Sony Liv",SONY MAX HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Sony",SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Sony Liv",SONY MAX2
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Sony",SONY MAX2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 
-#EXTINF:-1 tvg-logo=https://i.ibb.co/TgcnKsz/Astro-Cricket.png" group-title="Sports",Astro Cricket HD
+#EXTINF:-1 tvg-logo=https://i.ibb.co/TgcnKsz/Astro-Cricket.png" group-title="Cricket",Astro Cricket HD
 https://82d9.short.gy/astro-cricket
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",SuperSport Cricket HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Cricket",SuperSport Cricket HD
 https://82d9.short.gy/supersport-cricket
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Sports",Fox Cricket 501 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Cricket",Fox Cricket 501 HD
 https://82d9.short.gy/fox-cricket
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Cricket",Willow Cricket HD
 https://82d9.short.gy/willow-cricket
