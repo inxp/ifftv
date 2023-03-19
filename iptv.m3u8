@@ -38,50 +38,114 @@ https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 https://hls.media.nic.in/live/rstv/index.m3u8
 
 
-#EXTINF:1 group-title="Sony",Discovery Hindi
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+###########################################
 
-#EXTINF:1 group-title="Sony",Animal Planet
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:1 group-title="Sony",Sony. BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:1 group-title="Sony",Set HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Entertainment",SONY HD 1
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
-#EXTINF:1 group-title="Sony",Sab HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-
-#EXTINF:1 group-title="Sony",Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-
-#EXTINF:1 group-title="Sony",Sony Max
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony",SONY HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Entertainment",SONY HD 2
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Sony",SONY SAB HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 1
+http://50.7.69.66/COLORSHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 2
+https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1301
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 1
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 2
+https://madplay.live/starlive/index.m3u8/?id=48109&token=highrisk
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Zee TV
+https://madplay.live/starlive/index.m3u8/?id=48112&token=highrisk
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",& TV
+https://madplay.live/starlive/index.m3u8/?id=48130&token=highrisk
+
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 1
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 2
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Sony",SONY MAX HD
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB 
+https://madplay.live/starlive/index.m3u8/?id=48152&token=highrisk
+###########################################
+
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold 1
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold 2
+https://madplay.live/starlive/index.m3u8/?id=48107&token=highrisk
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold Select
+https://madplay.live/starlive/index.m3u8/?id=48108&token=highrisk
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", & Pictures
+https://madplay.live/starlive/index.m3u8/?id=48135&token=highrisk
+
+
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Movies",SONY MAX HD 1
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Movies",SONY MAX HD 2
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Sony",SONY MAX2
+#EXTINF:1 group-title="Movies",Sony Max 1
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
+#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Movies",SONY MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
+#EXTINF:1 group-title="Movies",Colors Cineplex
+https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1309
 
-#EXTINF:-1 tvg-logo=https://i.ibb.co/TgcnKsz/Astro-Cricket.png" group-title="Cricket",Astro Cricket HD
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Zee Cinema
+https://madplay.live/starlive/index.m3u8/?id=48113&token=highrisk
+
+###########################################
+
+#EXTINF:1 group-title="Music",MTV HD
+https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1300
+
+#EXTINF:1 group-title="Music",MTV Beats
+https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1304
+
+
+
+###########################################
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Sports",Star Sports 1 Hindi 1
+https://madplay.live/starlive/index.m3u8/?id=51218&token=highrisk
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Sports",Star Sports 1 Hindi 2
+https://madplay.live/starlive/index.m3u8/?id=48105&token=highrisk
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports 1 HD
+https://madplay.live/starlive/index.m3u8/?id=48106&token=highrisk
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports 2 HD
+https://madplay.live/starlive/index.m3u8/?id=48103&token=highrisk
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports Select 1
+https://madplay.live/starlive/index.m3u8/?id=48110&token=highrisk
+
+#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports Select 2
+https://madplay.live/starlive/index.m3u8/?id=48111&token=highrisk
+
+
+#EXTINF:-1 tvg-logo=https://i.ibb.co/TgcnKsz/Astro-Cricket.png" group-title="Sports",Astro Cricket HD
 https://82d9.short.gy/astro-cricket
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Cricket",SuperSport Cricket HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",SuperSport Cricket HD
 https://82d9.short.gy/supersport-cricket
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Cricket",Fox Cricket 501 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Sports",Fox Cricket 501 HD
 https://82d9.short.gy/fox-cricket
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Cricket",Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
 https://82d9.short.gy/willow-cricket
