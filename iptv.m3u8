@@ -147,3 +147,6 @@ https://82d9.short.gy/fox-cricket
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
 https://82d9.short.gy/willow-cricket
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="News",NDTV India SL
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9uZHR2aW5kaWFlbGVtYXJjaGFuYS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDM2NzkvbmR0dmluZGlhL21hc3Rlci5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
