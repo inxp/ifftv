@@ -37,11 +37,6 @@ https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Rajyasabha
 https://hls.media.nic.in/live/rstv/index.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Rajyasabha SL
-http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9obHMubWVkaWEubmljLmluL2xpdmUvcnN0di9pbmRleC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
-
-
-
 
 ###########################################
 
@@ -152,6 +147,3 @@ https://82d9.short.gy/fox-cricket
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
 https://82d9.short.gy/willow-cricket
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="News",NDTV India SL
-http://127.0.0.1:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVVCSnhzWXZ2eUZrIGJlc3QgLS1obHMtc2VnbWVudC10aHJlYWRzPTQgLS1wbGF5ZXItY29udGludW91cy1odHRw
