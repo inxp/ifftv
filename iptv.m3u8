@@ -37,6 +37,11 @@ https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Rajyasabha
 https://hls.media.nic.in/live/rstv/index.m3u8
 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Rajyasabha SL
+http://127.0.0.1:53422/base64/c3RyZWFtbGluayAiaHR0cHM6Ly9obHMubWVkaWEubmljLmluL2xpdmUvcnN0di9pbmRleC5tM3U4IiBiZXN0IC0taGxzLXNlZ21lbnQtdGhyZWFkcz00IC0tcGxheWVyLWNvbnRpbnVvdXMtaHR0cA==
+
+
+
 
 ###########################################
 
