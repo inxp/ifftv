@@ -49,7 +49,7 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 1
-https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1301
+https://madplay.live/starlive/index.m3u8/?id=48102&token=highrisk
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 1
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
