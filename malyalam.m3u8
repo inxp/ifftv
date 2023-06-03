@@ -27,7 +27,11 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malayalam" ,Mazhavil Manorama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/bc752fa4-7246-44ca-a10e-d8f27a769631/0.m3u8
+
+#EXTINF:-1 group-title="Malayalam" ,Mazhavil Manorama HD
+https://mhdtv.co.in/jio/app/live/844/Mazavali_Manorama_HD/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d125fe07b730ce7508ccecacbfd684be769af99ccedbd85c9a1596f6f55bf92a0f195f8d9c7c92875038b9bc75a9b49fbdb7e81c0ca33a8664df2428f715d9c37_playlist.m3u8
+
 
 #EXTINF:-1 group-title="Malayalam" ,Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
@@ -50,8 +54,11 @@ https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam" ,Adipoli
 https://live.hungama.com/linear/adipoli/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" lowers TV
+#EXTINF:-1 group-title="Malayalam" Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(02)/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" Flowers TV 2
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/3d416c0c-e5b4-4e0a-94da-67b16651946e/0.m3u8
 
 #EXTINF:-1 group-title="Malayalam" KCL TV
 http://kcltv.livebox.co.in/kclhls/live.m3u8
@@ -94,6 +101,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685794847/ei/v
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" , Manorama News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685794847/ei/v9t6ZMizMMSRkgavk73gAw/ip/20.171.133.130/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/tx/24472432/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B4MGfjPnqeB94Dq4WizORlaRzIATB8RIvj17Vw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391%2C51000012/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANPB1NfQGSoREGynE0_ZPPWX4pDK1yxmScvi-ORsFcw5AiEAzHNGhGU_XvVnYoO-Hwa0qFjLd86lpUPxhs4GdTFWi4c%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" , Manorama News 2
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" , News 18 Kerala
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685794848/ei/wNt6ZO6HFNOqkwbDr6DQAQ/ip/20.171.133.130/id/ga4VzNnXvRI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7BwIcKaX7D9chn7xjdr52w5y2AMxh3glHxa-upA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMrt7sjsggmUZPzjFKQoC8uwT9wGua2fDbIqV6h0TMb2AiEAqzkbctM3TlrDvueh4FyvSndBxeB43jri2uc7Cf_VIVY%3D/file/index.m3u8
