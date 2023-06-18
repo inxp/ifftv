@@ -27,10 +27,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malayalam" ,Mazhavil Manorama
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/bc752fa4-7246-44ca-a10e-d8f27a769631/0.m3u8
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" ,Mazhavil Manorama HD
-https://mhdtv.co.in/jio/app/live/844/Mazavali_Manorama_HD/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d125fe07b730ce7508ccecacbfd684be769af99ccedbd85c9a1596f6f55bf92a0f195f8d9c7c92875038b9bc75a9b49fbdb7e81c0ca33a8664df2428f715d9c37_playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" ,Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
@@ -97,8 +95,8 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" , Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
 
-##EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" , Mathrubhumi News
-##https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685794846/ei/vdt6ZO-pN4XMkga7sp7YDg/ip/20.171.133.130/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/maudio/1/spc/qEK7B9RfWCXI5BEf3SoHFxm5tIrfjDuEbvDLQcA6hg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392%2C51000011%2C51000014/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIs9jVYq9Hc0WaP7JudapYVlIvf2yHsJrKUmgqHthMTtAiB5osjxmsjnWKN5kAwVkYvnyYIBzLOr7tFliIwRES_zhg%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" , Mathrubhumi News
+https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/playlist.m3u8
 
 ##EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" , Media One News
 ##https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685794846/ei/vtt6ZIv6Iom5kwah15yACA/ip/20.171.133.130/id/GIT1lX0NdHo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B2PQacaJyaA7SzuSdJK3xXuwj7BP5rA41xGPKA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN4h5uQbjYJjGwssNPs-PXMWWKe8BzzWOAAxD7IS703nAiEAprGR4rfxguKskaIYTMI9bUR03wWFNPk0Y7_RUbR_Y5E%3D/file/index.m3u8
