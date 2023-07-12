@@ -107,10 +107,12 @@ https://madplay.live/starlive/index.m3u8/?id=48113&token=highrisk
 
 ###########################################
 
-##EXTINF:1 group-title="Music",MTV HD
+##EXTINF:1 group-title="Music",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 
-##EXTINF:1 group-title="Music",MTV Beats
+##EXTINF:1 group-title="Music",Dil se
+https://live-hungama.multitvsolution.com/dilse/playlist.m3u8?hdnts=exp=1689190879~hmac=9732d591683f31ad4115c667546face2ef286ea359c9624d2424d8215b1fbd1b
 
 
 
