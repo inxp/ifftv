@@ -13,8 +13,8 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 Rajasthan
-https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 Bihar
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/News18_Bihar_Jharkhand_NW18_MOB-audio_98835_eng=98800-video=1884800.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
@@ -47,21 +47,15 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Entertainment",SONY HD 2
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 1
-https://madplay.live/starlive/index.m3u8/?id=48102&token=highrisk
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 1
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 2
-https://madplay.live/starlive/index.m3u8/?id=48109&token=highrisk
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8?token=test
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Zee TV
-https://madplay.live/starlive/index.m3u8/?id=48112&token=highrisk
-
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",& TV
-https://madplay.live/starlive/index.m3u8/?id=48130&token=highrisk
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 1
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
@@ -69,22 +63,13 @@ https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 2
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB 
-https://madplay.live/starlive/index.m3u8/?id=48152&token=highrisk
+
 ###########################################
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold 1
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold 2
-https://madplay.live/starlive/index.m3u8/?id=48107&token=highrisk
-
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold Select
-https://madplay.live/starlive/index.m3u8/?id=48108&token=highrisk
-
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", & Pictures
-https://madplay.live/starlive/index.m3u8/?id=48135&token=highrisk
 
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Movies",SONY MAX HD 1
@@ -99,53 +84,15 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Movies",SONY MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
-#EXTINF:1 group-title="Movies",Colors Cineplex
-https://madplay.live/vootlive/master.m3u8/urlgen.php?id=1309
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Zee Cinema
-https://madplay.live/starlive/index.m3u8/?id=48113&token=highrisk
 
 ###########################################
 
-##EXTINF:1 group-title="Music",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-
-##EXTINF:1 group-title="Music",Dil se
-https://live-hungama.multitvsolution.com/dilse/playlist.m3u8?hdnts=exp=1689190879~hmac=9732d591683f31ad4115c667546face2ef286ea359c9624d2424d8215b1fbd1b
-
+#EXTINF:1 group-title="Music",MTV Beats
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/playlist.m3u8?token=test
 
 
 
 ###########################################
 
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Sports",Star Sports 1 Hindi 1
-https://madplay.live/starlive/index.m3u8/?id=51218&token=highrisk
-
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Sports",Star Sports 1 Hindi 2
-https://madplay.live/starlive/index.m3u8/?id=48105&token=highrisk
-
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports 1 HD
-https://madplay.live/starlive/index.m3u8/?id=48106&token=highrisk
-
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports 2 HD
-https://madplay.live/starlive/index.m3u8/?id=48103&token=highrisk
-
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports Select 1
-https://madplay.live/starlive/index.m3u8/?id=48110&token=highrisk
-
-#EXTINF:-1 tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports Select 2
-https://madplay.live/starlive/index.m3u8/?id=48111&token=highrisk
-
-
-#EXTINF:-1 tvg-logo=https://i.ibb.co/TgcnKsz/Astro-Cricket.png" group-title="Sports",Astro Cricket HD
-https://82d9.short.gy/astro-cricket
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",SuperSport Cricket HD
-https://82d9.short.gy/supersport-cricket
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Sports",Fox Cricket 501 HD
-https://82d9.short.gy/fox-cricket
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
-https://82d9.short.gy/willow-cricket
