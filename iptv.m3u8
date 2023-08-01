@@ -53,9 +53,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Co
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 1
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 2
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8?token=test
-
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 1
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
