@@ -5,19 +5,22 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/aaj_tak.png" group-title="News",Aaj Tak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 Bihar
-https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/News18_Bihar_Jharkhand_NW18_MOB-audio_98835_eng=98800-video=1884800.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 Rajasthan
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+#EXTINF:1 tvg-logo="https://duckduckgo.com/i/0492c938ac79e45f.png" group-title="News",Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/70e14b71-ced8-4bd3-a0e9-55b325b73b47/3.m3u8
 
 #EXTINF:1 tvg-logo="https://bharatdev.s3.ap-south-1.amazonaws.com/media/cover-img-mobile/1674268441.png?v=5" group-title="News",Bharat 24
 https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
@@ -26,13 +29,13 @@ https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee Bihar
-https://d3dxf2v5wg5rcy.cloudfront.net/out/v1/349f643193e347609b16671d8e0bfb4a/index_4.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzUxMDQ3MTJ9.FVRUT_37cRRxwC4YkPnmd5ABNrO8X0l5GtSPsXv1wtU
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee Rajasthan
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="News",Kashish News
-https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
+#EXTINF:1 tvg-logo="https://duckduckgo.com/i/b20381ca7760ff1c.png" group-title="News",DD News
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News",Rajyasabha
 https://hls.media.nic.in/live/rstv/index.m3u8
@@ -47,12 +50,6 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Entertainment",SONY HD 2
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 1
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
-
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Entertainment",Star Plus 1
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test 
-
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Entertainment",SAB HD 1
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
@@ -64,19 +61,12 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 ###########################################
 
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="Movies", Star Gold 1
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-
-
-
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Movies",SONY MAX HD 1
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Movies",SONY MAX HD 2
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:1 group-title="Movies",Sony Max 1
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Movies",SONY MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
@@ -84,11 +74,6 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 
 ###########################################
-
-
-#EXTINF:1 group-title="Music",MTV Beats
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/playlist.m3u8?token=test
-
 
 
 ###########################################
